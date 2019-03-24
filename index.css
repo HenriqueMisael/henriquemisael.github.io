@@ -17,7 +17,7 @@ body {
 .main-card {
     background-color: #eeeeee;
     width: 50em;
-    height: 66em;
+    height: 69em;
 }
 
 .tooltip {
@@ -92,16 +92,15 @@ section > label.title {
     font-family: Calibri, sans-serif;
     font-size: 3em;
     font-variant: all-petite-caps;
+    font-weight: normal;
 }
 
 section > label.title-2 {
     font-family: "Times New Roman", serif;
     font-size: 2em;
-    font-weight: bold;
 }
 
 section > label.extra-info {
-    font-weight: bold;
 }
 
 .period {
@@ -146,4 +145,12 @@ section > label.extra-info {
     border-radius: 0.5em;
     position: relative;
     white-space: nowrap;
+}
+
+label {
+    font-weight: bold;
+}
+
+.info {
+    display: inline-block;
 }
