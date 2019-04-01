@@ -123,6 +123,9 @@ section > label.extra-info {
     height: 22px;
 }
 
+.progressbar-0 {
+    width: 0%;
+}
 .progressbar-1 {
     width: 20%;
 }
