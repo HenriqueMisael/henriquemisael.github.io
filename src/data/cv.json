@@ -1,0 +1,139 @@
+{
+  "personal": {
+    "name": "Henrique Misael",
+    "surname": "Machado",
+    "birthday": "02/06/1998",
+    "hometown": {
+      "city": "Joinville",
+      "state": "SC",
+      "country": "Brazil"
+    },
+    "residence": {
+      "city": "Maringá",
+      "state": "PR",
+      "country": "Brazil"
+    }
+  },
+  "education": [
+    {
+      "name": "Informatics",
+      "college": "Universidade Estadual de Maringá",
+      "period": {
+        "start": "11/04/2016"
+      },
+      "subjects": [
+        "Project Management",
+        "Soluctions modeling and design",
+        "Software development",
+        "Computing science",
+        "IT in the society"
+      ]
+    }
+  ],
+  "working": [
+    {
+      "position": "Harbour Developer",
+      "company": "SG Sistemas de Software LTDA",
+      "period": {
+        "start": "22/02/2016",
+        "end": "29/03/2018"
+      },
+      "competencies": [
+        "Procedural and O.O. programming in Harbour",
+        "GUI development using FiveWin for Harbour",
+        "C development for SO and DLL functions use"
+      ]
+    },
+    {
+      "position": "Junior Developer",
+      "company": "Objective Solutions",
+      "period": {
+        "start": "02/04/2018"
+      },
+      "competencies": [
+        "REST Web Services in Java using Spring",
+        "AWS Lambda Functions, Elastic Beanstalk, EC2 instances",
+        "JHipster generator for Spring and Angular",
+        "Unit testing and Integration testing using JUnit and Mockito"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "type": "LANGUAGE",
+      "language": "Portuguese",
+      "level": {
+        "writing": 5,
+        "reading": 5,
+        "listening": 5,
+        "speaking": 5
+      }
+    },
+    {
+      "type": "LANGUAGE",
+      "language": "English",
+      "level": {
+        "writing": 3,
+        "reading": 3,
+        "listening": 1,
+        "speaking": 2
+      }
+    },
+    {
+      "type": "LANGUAGE",
+      "language": "French",
+      "level": {
+        "writing": 0,
+        "reading": 0,
+        "listening": 0,
+        "speaking": 0
+      }
+    },
+    {
+      "type": "DEV",
+      "language": "JAVA",
+      "level": {
+        "unitTesting": 3,
+        "integrationTesting": 3,
+        "development": 4
+      },
+      "details": [
+        "Webservices based on Spring-Boot on JDK 1.8",
+        "Mockito & JUnit"
+      ]
+    },
+    {
+      "type": "DEV",
+      "language": "JAVA_SCRIPT",
+      "level": {
+        "unitTesting": 1,
+        "development": 3
+      },
+      "details": ["NodeJS 8"]
+    }
+  ],
+  "interests": [
+    {
+      "topic": "IT",
+      "items": [
+        "Artifical Intelligence",
+        "Game Development",
+        "Web Services",
+        "Framework Development",
+        "DEVOPS",
+        "IOT"
+      ]
+    },
+    {
+      "topic": "Other",
+      "items": [
+        "Games in general",
+        "RTS Player",
+        "Podcast",
+        "Books (Fantasy & Fiction)",
+        "Music",
+        "HEMA"
+      ]
+    }
+  ]
+}
